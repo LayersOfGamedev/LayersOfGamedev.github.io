@@ -319,6 +319,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
+      date_format: "%-d %b, %Y"
       read_time: true
       comments: # true
       share: true
