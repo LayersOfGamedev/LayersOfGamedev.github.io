@@ -149,6 +149,12 @@ footer:
       url: "https://kris0211.itch.io/"
 
 
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+
 # Reading Files
 include:
   - .htaccess
@@ -310,6 +316,6 @@ defaults:
       show_date: true
       date_format: "%-d %b, %Y"
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
