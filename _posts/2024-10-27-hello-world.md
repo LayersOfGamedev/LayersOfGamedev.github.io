@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Hello World!"
+date: 2024-10-27
+categories: test
+---
+
 # Hello World!
 
 This is a sample post to check out Jekyll's capabilities.
