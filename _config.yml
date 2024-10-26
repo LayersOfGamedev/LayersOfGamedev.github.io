@@ -121,32 +121,32 @@ author:
   #links:
   #  - label: "Email"
   #    icon: "fas fa-fw fa-envelope-square"
-  #     url: "mailto:stawinogakris@gmail.com"
+  #    url: "mailto:stawinogakris@gmail.com"
   #  - label: "LinkedIn"
   #    icon: "fab fa-fw fa-linkedin"
-  #     url: "https://www.linkedin.com/in/krzysztof-stawinoga-kris0211/"
+  #    url: "https://www.linkedin.com/in/krzysztof-stawinoga-kris0211/"
   #  - label: "GitHub"
   #    icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/Kris0211"
+  #    url: "https://github.com/Kris0211"
   #  - label: "Itch.io"
   #    icon: "fas fa-fw fa-link"
-  #     url: "https://kris0211.itch.io/"
+  #    url: "https://kris0211.itch.io/"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:stawinogakris@gmail.com"
+      url: "mailto:stawinogakris@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/krzysztof-stawinoga-kris0211/"
+      url: "https://www.linkedin.com/in/krzysztof-stawinoga-kris0211/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Kris0211"
+      url: "https://github.com/Kris0211"
     - label: "Itch.io"
       icon: "fas fa-fw fa-link"
-       url: "https://kris0211.itch.io/"
+      url: "https://kris0211.itch.io/"
 
 
 # Reading Files
