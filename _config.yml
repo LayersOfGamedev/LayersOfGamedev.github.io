@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Kris (OrchiDev)"
-  avatar           : /assets/img/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/img/core/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An aspiring game developer who likes to learn things the hard way."
   location         : Łódź, Poland
   email            : 
