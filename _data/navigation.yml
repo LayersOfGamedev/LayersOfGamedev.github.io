@@ -1,15 +1,13 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Main Page"
     url: /
   - title: "Posts"
-    items:
-      - title: "All Posts"
-        url: /year-archive/
-      - title: "By Category"
-        url: /categories/
-      - title: "By Tag"
-        url: /tags/
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "About Me"
     url: /about-me/
   - title: "My Projects"
