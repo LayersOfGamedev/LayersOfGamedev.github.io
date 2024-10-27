@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Layers of GameDev"
 title_separator          : "---"
 subtitle                 : "Peeling off game development, one layer at a time" # site tagline that appears below site title in masthead
-name                     : "Kris *(OrchiDev)*"
+name                     : "Kris"
 description              : "A personal blog about game design & development. Take my opinions with a grain of salt."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
