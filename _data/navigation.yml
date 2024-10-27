@@ -2,8 +2,8 @@
 main:
   - title: "Main Page"
     url: /
-  - title: "Posts"
-    url: /year-archive/
+  - title: "All Posts"
+    url: /all-posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
