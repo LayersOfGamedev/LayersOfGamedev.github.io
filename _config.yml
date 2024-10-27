@@ -252,13 +252,12 @@ pagination:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-remote-theme
-  - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
