@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Test"
-date: 2024-10-27
+date: 2024-11-01
 categories: test
 ---
-
-# Hello World!
 
 This is a sample post to check out Jekyll's capabilities.
 
