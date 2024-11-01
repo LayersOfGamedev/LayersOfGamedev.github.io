@@ -3,6 +3,9 @@ layout: single
 title: "Test"
 date: 2024-11-01
 categories: test
+sidebar:
+  left: false
+  right: false
 ---
 
 This is a sample post to check out Jekyll's capabilities.
