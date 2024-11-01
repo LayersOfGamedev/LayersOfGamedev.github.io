@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Hello World!"
 date: 2024-10-26
 categories: test
