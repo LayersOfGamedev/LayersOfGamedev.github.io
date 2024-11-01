@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Test"
 date: 2024-11-01
 categories: test
